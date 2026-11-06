@@ -1,0 +1,23 @@
+ADOÇÃO LINS — PROJETO HTML
+
+COMO TESTAR
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra a pasta adocao_lins.
+3. Dê dois cliques em index.html ou abra-o pelo navegador.
+4. Use o menu para navegar entre Início, Animais, Sobre e Contato.
+
+PÁGINAS
+- index.html: página inicial
+- animais.html: lista de animais com busca e filtros
+- detalhes.html: perfil do animal (aberto pelos botões QUERO ADOTAR)
+- sobre.html: informações e formulário de contato
+
+PERSONALIZAÇÃO
+- Os animais de demonstração ficam no arquivo js/app.js, na lista "pets".
+- As cores, tamanhos e aparência ficam em css/style.css.
+- As áreas cinzas com ícones de patinhas são espaços reservados para fotos reais.
+- O endereço, e-mail e redes sociais da página Sobre são exemplos do wireframe. Troque pelos dados verdadeiros antes de publicar.
+
+IMPORTANTE
+O formulário demonstra a interface e a validação no navegador, mas ainda não envia mensagens para um e-mail. Para isso, conecte-o a um serviço de formulário ou a um backend.
+A fonte externa pode precisar de internet; o restante do layout funciona localmente.
